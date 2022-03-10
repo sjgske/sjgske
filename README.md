@@ -1,21 +1,17 @@
 
 ### **Hi 👋, I'm Danheon ˙ᵕ˙**
 
-I am a university student from South Korea. I'm studying to become a Web Frontend Developer.
-I'm interested in Interective Web design and CSS Animation.
+<img src="https://img.shields.io/badge/eksgjs3847@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.notion.so/Keep-Coding-ca5299b7c0f246b3a0505f132d7494af"><img src="https://img.shields.io/badge/Studylog-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/sjgske-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
 
-If you want to contact me, please leave me a message!
-<br>
-<br>
-### **💬 Work**
-- 🌱 I'm currently learning Javascript and React.
-- 📝 I regularly write study logs on <a href="https://www.notion.so/Keep-Coding-ca5299b7c0f246b3a0505f132d7494af">notion.</a>
+I want to be a **Web Frontend Developer**. 😎<br>
+I'm interested in implementing **UI/UX** and **interaction**. ✨<br>
+
+I'm currently studying **JavaScript** and **React**.🛠 <br>
+If you want to contact me, please leave me a message! 💌
 
 <br>
 
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
-
+### **📚 Stacks.**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjgske&show_icons=true&locale=en&layout=compact" alt="sjgske" /></p>
