@@ -1,7 +1,7 @@
 
 ### **Hi 👋, I'm Danheon ˙ᵕ˙**
 
-<img src="https://img.shields.io/badge/eksgjs3847@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.notion.so/Keep-Coding-ca5299b7c0f246b3a0505f132d7494af"><img src="https://img.shields.io/badge/Studylog-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/sjgske-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/eksgjs3847@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.notion.so/Keep-Coding-ca5299b7c0f246b3a0505f132d7494af"><img src="https://img.shields.io/badge/Studylog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 I want to be a **Web Frontend Developer**. 😎<br>
 I'm interested in implementing **UI/UX** and **interaction**. ✨<br>
