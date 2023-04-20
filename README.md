@@ -2,7 +2,7 @@
 
 Frontend engieer from Korea. @sjgske
 
-[![Medium Badge](https://img.shields.io/badge/-@sjgske-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://sjgske.kr)](https://sjgske.kr)
+[![Velog Badge](https://img.shields.io/badge/-@sjgske-03a57a?style=flat-square&labelColor=000000&logo=Velog&link=https://velog.io/@sjgske)](https://velog.io/@sjgske)
 [![Gmail Badge](https://img.shields.io/badge/-eksgjs3847@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eksgjs3847@gmail.com)](mailto:eksgjs3847@gmail.com)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sjgske.sjgske)
 
