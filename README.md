@@ -1,15 +1,18 @@
+## Hi, there! 👋🏼
 
-### **Hi 👋, I'm Danheon ˙ᵕ˙**
+Frontend engieer from Korea. @sjgske
 
-I'm a **Frontend Developer**. 😎<br>
-I'm interested in **UI/UX** and **interaction**. ✨<br>
-I'm currently learning **React** and **TypeScript**.🛠 <br>
-[Contact](mailto:eksgjs3847@naver.com) 💌 
+[![Medium Badge](https://img.shields.io/badge/-@sjgske-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://sjgske.kr)](https://sjgske.kr)
+[![Gmail Badge](https://img.shields.io/badge/-eksgjs3847@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eksgjs3847@gmail.com)](mailto:eksgjs3847@gmail.com)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sjgske.sjgske)
 
+## ⚡ Technologies
 
-### **📚 Skills.**
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjgske&show_icons=true&locale=en&layout=compact" alt="sjgske" /></p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![nextjs](https://img.shields.io/badge/-nextjs-black?style=flat-square&logo=nextjs)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
